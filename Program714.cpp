@@ -1,0 +1,21 @@
+
+#include<iostream>
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+// #include<unistd.h>
+using namespace std;
+
+////////////////////////////////////////////////////////////////////////////////
+//
+//Entry point function of project (main)
+//
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+int main()
+{
+    system("dir");
+    return 0;
+} //End of main
